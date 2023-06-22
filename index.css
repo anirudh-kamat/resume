@@ -1,0 +1,20 @@
+#firstdiv
+{
+  border:2px solid;
+  width:100%;
+  background-color:rgb(162, 238, 181) ;
+  color: rgb(7, 7, 7);
+}
+#seconddiv
+{
+  border:2px solid;
+  width:100%;
+  background-color:rgb(162, 238, 181) ;
+  color: rgb(3, 3, 3);
+}
+body{
+  background-color: aliceblue;
+}
+img{
+  border-radius: 50%;
+}
